@@ -2,7 +2,6 @@
 
 This project was done in a Javascript module I'm taking from Microverse in how to use Javascript objects, Javascript ES6 and DOM manipulation.
 
-
 ![app-screenshot](./appImage.png)
 
 ## Built With 
